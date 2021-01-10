@@ -20,4 +20,3 @@ print('Pg= ', pg2)
 print('\n')
 comprobante1= np.dot(h1, pg2)
 print(comprobante1.round())
-
